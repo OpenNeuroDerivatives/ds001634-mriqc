@@ -1,0 +1,7 @@
+Warning: Permanently added 'c112-092' (ED25519) to the list of known hosts.
+WARNING (10/11/22 19:40:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4912877.hostlist.zJAD6rpM to get hosts
+starting job on c112-092
+starting job on c113-022
+starting job on c113-032
+starting job on c113-151
